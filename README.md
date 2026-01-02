@@ -1,4 +1,4 @@
-# beginner-5
+# beginner
 my first repository
 <br>
 Author-Amina
